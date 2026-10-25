@@ -1,0 +1,22 @@
+# Citation for the ABA law school admissions data
+#
+# GitHub renders a "Cite this repository" button from this file.
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "ABA Law School Admissions Data 2015-2025"
+abstract: >-
+  Clean, citable law school admissions data for 196 ABA-approved law schools,
+  built from the American Bar Association's Standard 509 Required Disclosures
+  and 1L JD Applicant / First-Year Class Data (2015-2025 cycles).
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/tianenniu4/aba-law-school-data"
+url: "https://www.openlawprep.com/press/"
+keywords:
+  - law school
+  - admissions
+  - ABA 509
+  - education
+authors:
+  - name: "Tianen Niu"
+    website: "https://www.openlawprep.com"
