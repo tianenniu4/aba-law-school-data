@@ -1,0 +1,25 @@
+{
+  "dataset": "ABA law school application, offer and enrollment trends, 2015-2025",
+  "publisher": "OpenLawPrep",
+  "publisher_url": "https://www.openlawprep.com/",
+  "source": "American Bar Association 1L JD Applicant / First-Year Class Data",
+  "source_url": "https://www.abarequireddisclosures.org/",
+  "reporting_cycle": "2015-2025 entering classes",
+  "license": "Free to use with attribution. The underlying data is published by the American Bar Association.",
+  "notes": [
+    "Year is the entering class year, not the year the report was published.",
+    "A missing school-year combination means the school did not report that year. It is absent from this file entirely, never zero.",
+    "applications / matriculants are always present. offers is blank for two schools in 2025 because the ABA blank field was read upstream as 0; see the site's data guide.",
+    "The 2017 ABA questionnaire changed the definition of the first-year class (leaves of absence, admits with fewer than fifteen credits), so 2017 is not perfectly comparable with 2016 and earlier."
+  ],
+  "generated": "2026-10-24",
+  "row_count": 2020,
+  "columns": [
+    "slug",
+    "school",
+    "year",
+    "applications",
+    "offers",
+    "matriculants"
+  ]
+}
